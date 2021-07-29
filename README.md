@@ -65,6 +65,12 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira&logoColor=007ACC)
   
+   <h3> Monitoramento </h3>
+
+  ![Grafana](https://img.shields.io/badge/Grafana-0089D6?style=for-the-badge&logo=Grafana&logoColor=white)
+  ![AWS fargate](https://img.shields.io/badge/Amazon_Fargate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+  
   <h3> Deploys </h3>
 
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-0089D6?style=for-the-badge&logo=Kubernetes&logoColor=white)

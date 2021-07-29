@@ -26,8 +26,15 @@
 
 
 
+
 -----
 <h1> Minhas Skills ☁</h1>
+
+<a href="https://github.com/VanessaSwerts">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsilva-DevOps&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</a>
+
+<br/>
 
 <h3> Clouds </h3>
 
@@ -82,11 +89,7 @@
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsilva-DevOps&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</a>
 
-<br/>
 
 
 ----

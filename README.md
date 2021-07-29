@@ -65,14 +65,20 @@
   ![Gitlab](https://img.shields.io/badge/GitLab_ci-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
     
 
-<h3> Ferramentas de Desenvolvimento </h3>
+<h3> Colaboração </h3>
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira&logoColor=007ACC)
   
-   <h3> Monitoramento </h3>
+ <h3> Scripting </he>
+ 
+  ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  
+ <h3> Monitoramento </h3>
 
   ![Grafana](https://img.shields.io/badge/Grafana-232F3E?style=for-the-badge&logo=Grafana&logoColor=white)
   ![Zabbix](https://img.shields.io/badge/Zabbix-232F3E?style=for-the-badge&logo=Zabbix&logoColor=white)

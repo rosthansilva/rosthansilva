@@ -70,8 +70,8 @@
   
   <h3> CD </h3>
 
-  ![Jenkins](https://img.shields.io/badge/Kubernetes-D24939?style=for-the-badge&logo=Kubernetes&logoColor=white)
-  ![Azure Devops](https://img.shields.io/badge/Azure_Devops-0089D6?style=for-the-badge&logo=AzureDevops&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Kubernetes-0089D6?style=for-the-badge&logo=Kubernetes&logoColor=white)
+  ![Azure Devops](https://img.shields.io/badge/Fargate-0089D6?style=for-the-badge&logo=Fargate&logoColor=white)
   ![Gitlab](https://img.shields.io/badge/GitLab_ci-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
     
 

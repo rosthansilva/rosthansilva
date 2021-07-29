@@ -82,7 +82,6 @@
   ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
   ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
   <h3> Monitoramento </h3>
@@ -137,7 +136,8 @@
 <h3> Onde Aprendo </H3>
 
 ![00](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white)
-![00](https://img.shields.io/badge/acg-F15B2A?style=for-the-badge&logo=acg&logoColor=white)
+![00](https://img.shields.io/badge/A_cloud_Guru-F15B1b?style=for-the-badge&logo=acg&logoColor=white)
+![00](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
 

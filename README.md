@@ -20,7 +20,7 @@
 
 **Distros Linux**
 
-  ![Ubunru](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Ubuntu)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
   ![Kali Linux](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=KaliLinux)
   ![Alpine](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=AlpineLinux)
   ![Arch](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=ArchLinux)

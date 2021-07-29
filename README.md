@@ -8,15 +8,15 @@
 </p>
 
 <p align="left">
-  🛠️ Atualmente Sou Devops na <b> MJV Inovação Tecnológica </b> ;
+  👨‍🚀 Atualmente sou Devops na <b> MJV Inovação Tecnológica </b> ;
  </p>
 
 <p align="left">
-  ⏳ Estou focado em melhorar cada vez mais meus <b>Softskills</b> ;
+  🦾 Estou focado em melhorar cada vez mais meus <b>Softskills</b> ;
 </p>
 
 <p align="left">
-  ⏳ Estou Cursando <b>Devops</b> na <b>Anhanguera</b> no <b>Rio de Janeiro</b> ;
+  📖 Estou Cursando <b>Devops</b> na <b>Anhanguera</b> no <b>Rio de Janeiro</b> ;
 </p>
 
 <p align="left">

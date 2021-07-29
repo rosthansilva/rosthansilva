@@ -40,6 +40,7 @@
 
 
 <h3> Distribuições 📌 </h3>
+
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
   ![Kali Linux](https://img.shields.io/badge/-Kali-333333?style=flat&logo=KaliLinux)
   ![Alpine](https://img.shields.io/badge/-Alpine-333333?style=flat&logo=AlpineLinux)

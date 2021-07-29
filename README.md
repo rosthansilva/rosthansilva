@@ -135,9 +135,9 @@
 
 <h3> Onde Aprendo </H3>
 
-![00](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white)
-![00](https://img.shields.io/badge/A_cloud_Guru-F15B1b?style=for-the-badge&logo=acg&logoColor=white)
-![00](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+![pluralsight](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white)
+![ACG](https://img.shields.io/badge/A_cloud_Guru-F15B1b?style=for-the-badge&logo=acg&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
 

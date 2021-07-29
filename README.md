@@ -73,8 +73,10 @@
   <h3> Colaboração </h3>
 
   ![Eclipse](https://img.shields.io/badge/Jira-0089D6?style=for-the-badge&logo=Jira&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
- 
+  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+  ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+  ![Msteams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 
   
   <h3> Scripting </h3>

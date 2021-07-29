@@ -75,7 +75,7 @@
    <h3> Monitoramento </h3>
 
   ![Grafana](https://img.shields.io/badge/Grafana-232F3E?style=for-the-badge&logo=Grafana&logoColor=white)
-  ![Nagios](https://img.shields.io/badge/Nagios_xi-232F3E?style=for-the-badge&logo=Nagiosxi&logoColor=white)
+  ![Zabbix](https://img.shields.io/badge/Zabbix-232F3E?style=for-the-badge&logo=Zabbix&logoColor=white)
 
   
   <h3> Deploys </h3>
@@ -86,16 +86,13 @@
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   ![Swarm](https://img.shields.io/badge/Swarm-2CA5E0?style=for-the-badge&logo=Swarm&logoColor=white)
     
-<h3> Distribuições </h3>
+<h3> Estudando ... </h3>
 
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0089D6?style=flat&logo=Kubernetes)
-  ![Docker](https://img.shields.io/badge/-Docker-0089D6?style=flat&logo=Docker)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
-  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx)
-  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=Node)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-
-
+  ![Kubernetes](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Linux](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  
 <br/>
 
 

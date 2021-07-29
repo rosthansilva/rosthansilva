@@ -73,6 +73,7 @@
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-0089D6?style=for-the-badge&logo=Kubernetes&logoColor=white)
   ![AWS fargate](https://img.shields.io/badge/Amazon_Fargate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![GCP](https://img.shields.io/badge/Cloud_Build-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
     
 
 <br/>

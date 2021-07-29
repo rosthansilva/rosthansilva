@@ -14,7 +14,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosthan-pereira/)
 [<img src="https://img.shields.io/github/followers/rosthansilva?label=follow&style=social" height="22" title="Me Siga!" />](https://github.com/rosthansilva) 
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_rosthansilva)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rosthansilva)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rosthanlinux@gmail.com)
 
 
@@ -25,7 +25,7 @@
   <h1> Minhas Skills ☁</h1>
 
   <a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsilva-DevOps&show_icons=true&hide_border=true&&count_private=true&      include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosthansilva&show_icons=true&hide_border=true&&count_private=true&      include_all_commits=true" />
   </a>
 
   <br/>

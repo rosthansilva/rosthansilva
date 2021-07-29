@@ -72,17 +72,18 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira&logoColor=007ACC)
   
- <h3> Scripting </he>
+  <h3> Scripting </he>
  
   ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
   ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
- <h3> Monitoramento </h3>
+
+  <h3> Monitoramento </h3>
 
   ![Grafana](https://img.shields.io/badge/Grafana-232F3E?style=for-the-badge&logo=Grafana&logoColor=white)
-  ![Zabbix](https://img.shields.io/badge/Zabbix-232F3E?style=for-the-badge&logo=Zabbix&logoColor=white)
+  ![Zabbix](https://img.shields.io/badge/Zabbix-0E1012?style=for-the-badge&logo=Zabbix&logoColor=white)
 
   
   <h3> Containers e Orquestradores </h3>

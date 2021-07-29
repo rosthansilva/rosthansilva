@@ -18,9 +18,10 @@
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+
 
 -----
+<h1> :rocket: &nbsp;Minhas Skills </h1>
 **Infra**
 
   ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)

@@ -74,7 +74,7 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/Jira-007ACC?style=flat-square&logo=Jira&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+ 
 
   
   <h3> Scripting </he>

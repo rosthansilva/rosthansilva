@@ -32,15 +32,16 @@
 
 
 -----
-<h1> Minhas Skills ☁</h1>
 
-<a href="https://github.com/VanessaSwerts">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsilva-DevOps&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</a>
+  <h1> Minhas Skills ☁</h1>
 
-<br/>
+  <a href="https://github.com/VanessaSwerts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsilva-DevOps&show_icons=true&hide_border=true&&count_private=true&      include_all_commits=true" />
+  </a>
 
-<h3> Clouds </h3>
+  <br/>
+
+  <h3> Clouds </h3>
 
   ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -48,7 +49,7 @@
   ![OCI](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
   
 
-<h3> Distribuições </h3>
+  <h3> Distribuições </h3>
 
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Kali Linux](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
@@ -57,19 +58,19 @@
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
   ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
   
-<h3> IAC </h3>
+  <h3> IAC </h3>
 
   ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
   ![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=Terraform&logoColor=white)
 
-<h3> Ferramentas de CI e SCM</h3>
+  <h3> Ferramentas de CI e SCM</h3>
 
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
   ![Azure Devops](https://img.shields.io/badge/Azure_Devops-0089D6?style=for-the-badge&logo=AzureDevops&logoColor=white)
   ![Gitlab](https://img.shields.io/badge/GitLab_ci-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
     
 
-<h3> Colaboração </h3>
+  <h3> Colaboração </h3>
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)

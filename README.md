@@ -85,6 +85,9 @@
   ![GCP](https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   ![Swarm](https://img.shields.io/badge/Swarm-2CA5E0?style=for-the-badge&logo=Swarm&logoColor=white)
+  
+  <h3> Databases </h3>
+  https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white
     
 <h3> Estudando ... </h3>
 

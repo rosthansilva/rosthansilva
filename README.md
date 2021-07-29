@@ -21,9 +21,9 @@
 **Distros Linux**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Ubuntu)
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=KaliLinux)
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Alpine_Linux)
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Arch_Linux)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=KaliLinux&logo=oracle&logoColor=black)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=AlpineLinux)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=ArchLinux)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Debian)
   
 **Utilidades**

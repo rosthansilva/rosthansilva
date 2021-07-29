@@ -8,7 +8,7 @@
 </p>
 
 - 👨‍🚀 Atualmente sou Devops na [MJV Inovação Tecnológica](https://www.mjvinnovation.com/pt-br/) ;
-- 🦾 Estou focado em melhorar cada vez mais meus **Softskills** em automação ;
+- 🦾 Estou focado em melhorar cada vez mais meus **Soft Skills**;
 - 📖 Estou cursando <b>Devops</b> na <b>Anhanguera</b> ;
 - 💌 Quem quiser entrar em contato comigo : ⤵️
 

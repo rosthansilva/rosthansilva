@@ -21,11 +21,11 @@
 **Distros Linux**
 
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
-  ![Kali Linux](https://img.shields.io/badge/-Kali-linux-333333?style=flat&logo=KaliLinux)
-  ![Alpine](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=AlpineLinux)
-  ![Arch](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=ArchLinux)
-  ![Debian](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Debian)
-  ![RedHat](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=RedHat)
+  ![Kali Linux](https://img.shields.io/badge/-Kali-333333?style=flat&logo=KaliLinux)
+  ![Alpine](https://img.shields.io/badge/-Alpine-333333?style=flat&logo=AlpineLinux)
+  ![Arch](https://img.shields.io/badge/-Arch-333333?style=flat&logo=ArchLinux)
+  ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=Debian)
+  ![RedHat](https://img.shields.io/badge/-RedHat-333333?style=flat&logo=RedHat)
   
 **Utilidades**
 

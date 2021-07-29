@@ -72,12 +72,12 @@
 
   <h3> Colaboração </h3>
 
-   ![Eclipse](https://img.shields.io/badge/Jira-0089D6?style=for-the-badge&logo=Jira&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Jira-0089D6?style=for-the-badge&logo=Jira&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
  
 
   
-  <h3> Scripting </he>
+  <h3> Scripting </h3>
  
   ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **DevOps** na <a href="link da sua faculdade">Anhanguera</a>.
-- :arrows_counterclockwise: &nbsp; Trabalhando como **Devops e Infraestrutura** na <a href="LINK DA EMPRESA">MJV Inovação Tecnológica</a>
+- :arrows_counterclockwise: &nbsp; Trabalhando como **Devops e Infraestrutura Azure** na <a href="LINK DA EMPRESA">MJV Inovação Tecnológica</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Azure e Desenvolvimento**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>

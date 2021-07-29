@@ -61,8 +61,8 @@
   <h3> IAC </h3>
 
   ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=Terraform&logoColor=white)
-  ![Puppet](https://img.shields.io/badge/Puppet-000000?style=for-the-badge&logo=Puppet&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-330F62?style=for-the-badge&logo=Terraform&logoColor=white)
+  ![Puppet](https://img.shields.io/badge/Puppet-FF4500?style=for-the-badge&logo=Puppet&logoColor=white)
 
   <h3> Ferramentas de CI e SCM</h3>
 

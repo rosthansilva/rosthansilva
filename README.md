@@ -67,6 +67,13 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  
+  <h3> CD </h3>
+
+  ![Jenkins](https://img.shields.io/badge/Kubernetes-D24939?style=for-the-badge&logo=Kubernetes&logoColor=white)
+  ![Azure Devops](https://img.shields.io/badge/Azure_Devops-0089D6?style=for-the-badge&logo=AzureDevops&logoColor=white)
+  ![Gitlab](https://img.shields.io/badge/GitLab_ci-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+    
 
 <br/>
 

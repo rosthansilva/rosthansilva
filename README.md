@@ -50,12 +50,12 @@
 
 <h3> Distribuições </h3>
 
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
-  ![Kali Linux](https://img.shields.io/badge/-Kali-333333?style=flat&logo=KaliLinux)
-  ![Alpine](https://img.shields.io/badge/-Alpine-333333?style=flat&logo=AlpineLinux)
-  ![Arch](https://img.shields.io/badge/-Arch-333333?style=flat&logo=ArchLinux)
-  ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=Debian)
-  ![RedHat](https://img.shields.io/badge/-RedHat-333333?style=flat&logo=RedHat)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+  ![Alpine](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
+  ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+  ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
   
 <h3> IAC </h3>
 

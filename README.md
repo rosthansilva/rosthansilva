@@ -27,7 +27,7 @@
 
 
 -----
-<h1> ☁ &nbsp;Minhas Skills </h1>
+<h1> Minhas Skills ☁</h1>
 
 <h3> Infraestrutura </h3>
 

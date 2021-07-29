@@ -4,15 +4,15 @@
 
 ### Olá, eu sou [Rosthan!](https://rosthanliunux.me) 🌀 
 <p align="left"> 
-  Sou um lazy Sysadmin Linux ( 🐧 ) com uma Longa experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls e infraestrutura.
+  Sou um lazy Sysadmin Linux ( 🐧 ) com uma Longa experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
+  🛠️ Atualmente Sou Devops na <b> MJV Inovação Tecnológica </b> ;
+ </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  ⏳ Atualmente estou focado em aprender a Desenvolver;
 </p>
 
 <p align="left">

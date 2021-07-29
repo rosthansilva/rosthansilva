@@ -72,7 +72,7 @@
 
   <h3> Colaboração </h3>
 
-  ![Visual Studio Code](https://img.shields.io/badge/Jira-007ACC?style=flat-square&logo=Jira&logoColor=white)
+   ![Eclipse](https://img.shields.io/badge/Jira-0089D6?style=for-the-badge&logo=Jira&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
  
 

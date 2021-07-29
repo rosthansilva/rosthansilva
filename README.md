@@ -4,7 +4,7 @@
 
 ### Olá, eu sou [Rosthan!](https://rosthanliunux.me) 🌀 
 <p align="left"> 
-  Sou um lazy Sysadmin Linux ( 🐧 ) com uma Longa experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento.
+  Sou um lazy Sysadmin Linux 🐧 com uma Longa experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento.
 </p>
 
 <p align="left">

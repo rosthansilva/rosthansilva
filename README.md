@@ -35,8 +35,10 @@
 **CI**
 
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/AzureDevops-D24939?style=for-the-badge&logo=AzureDevops&logoColor=white)
   ![Gitlab](https://img.shields.io/badge/GitLab_ci-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+  
   
   
 

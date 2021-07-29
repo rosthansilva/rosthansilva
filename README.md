@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 
 ### Olá, eu sou [Rosthan!](https://rosthanliunux.me) 🌀 

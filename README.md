@@ -7,23 +7,7 @@
   Sou um lazy Sysadmin Linux 🐧 com uma Longa experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento.
 </p>
 
-<p align="left">
-  👨‍🚀 Atualmente sou Devops na <b> MJV Inovação Tecnológica </b> ;
- </p>
-
-<p align="left">
-  🦾 Estou focado em melhorar cada vez mais meus <b>Softskills</b> ;
-</p>
-
-<p align="left">
-  📖 Estou Cursando <b>Devops</b> na <b>Anhanguera</b> no <b>Rio de Janeiro</b> ;
-</p>
-
-<p align="left">
-  💌 Quem Quiser entrar em contato comigo : ⤵️
-</p>
-
-- 🔭 I’m currently working on [MJV Inovação Tecnológica](https://github.com/timelessco/renderless-components);
+- 👨‍🚀Atualmente sou Devops na [MJV Inovação Tecnológica](https://www.mjvinnovation.com/pt-br/);
 - 🦾 Estou focado em melhorar cada vez mais meus **Softskills**;
 - 📖 Estou Cursando <b>Devops</b> na <b>Anhanguera</b> e Estudando Dev </b>
 - 💌 Quem Quiser entrar em contato comigo : ⤵️

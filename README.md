@@ -29,8 +29,8 @@
   
 **IAC**
 
-  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform)
-  ![Ansible](https://img.shields.io/badge/-terraform-333333?style=flat&logo=Ansible)
+  ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+  ![Ansible](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=Terraform&logoColor=white)
 
 **DevOps**
 

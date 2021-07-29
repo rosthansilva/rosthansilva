@@ -29,7 +29,7 @@
 -----
 <h1> Minhas Skills ☁</h1>
 
-<h3> Infraestrutura </h3>
+<h3> Infraestrutura 📌  </h3>
 
   ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -38,8 +38,8 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
 
-**Distros Linux**
 
+<h3> Distribuições 📌 </h3>
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
   ![Kali Linux](https://img.shields.io/badge/-Kali-333333?style=flat&logo=KaliLinux)
   ![Alpine](https://img.shields.io/badge/-Alpine-333333?style=flat&logo=AlpineLinux)
@@ -47,19 +47,19 @@
   ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=Debian)
   ![RedHat](https://img.shields.io/badge/-RedHat-333333?style=flat&logo=RedHat)
   
-**IAC**
+<h3> IAC 📌 </h3>
 
   ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
   ![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=Terraform&logoColor=white)
 
-**CI**
+<h3> CI 📌 </h3>
 
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
   ![Azure Devops](https://img.shields.io/badge/Azure_Devops-0089D6?style=for-the-badge&logo=AzureDevops&logoColor=white)
   ![Gitlab](https://img.shields.io/badge/GitLab_ci-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
     
 
-**Ferramentas de Desenvolvimento**
+<h3> Ferramentas de Desenvolvimento 📌 </h3>
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)

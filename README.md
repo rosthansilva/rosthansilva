@@ -12,12 +12,17 @@
  </p>
 
 <p align="left">
-  ⏳ Atualmente estou focado em aprender a Desenvolver;
+  ⏳ Estou focado em aprender a Desenvolver;
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Quem Quiser entrar em contato comigo : ⤵️
 </p>
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosthan.pereira/)
+[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/rosthanpereira) 
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_leandra.oliveiras)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rosthanlinux@ccc.ufcg.edu.br)
 
 
 

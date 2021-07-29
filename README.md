@@ -67,8 +67,8 @@
   
    <h3> Monitoramento </h3>
 
-  ![Grafana](https://img.shields.io/badge/Grafana-0089D6?style=for-the-badge&logo=Grafana&logoColor=white)
-  ![AWS fargate](https://img.shields.io/badge/Amazon_Fargate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/Grafana-232F3E?style=for-the-badge&logo=Grafana&logoColor=white)
+  ![Nagios](https://img.shields.io/badge/Nagios-232F3E?style=for-the-badge&logo=Nagios&logoColor=white)
 
   
   <h3> Deploys </h3>

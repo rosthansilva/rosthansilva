@@ -12,7 +12,7 @@
  </p>
 
 <p align="left">
-  ⏳ Estou focado em aprender a Desenvolver;
+  ⏳ Estou focado em melhorar cada vez mais meu <b>Softskill</b> em Devops, Cloud e Desenvolvimento ;
 </p>
 
 <p align="left">

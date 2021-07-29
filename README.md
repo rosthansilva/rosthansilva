@@ -136,7 +136,7 @@
 <h3> Onde Aprendo </H3>
 
 ![00](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white)
-![00](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=acloudguru&logoColor=white)
+![00](https://img.shields.io/badge/acg-F15B2A?style=for-the-badge&logo=acg&logoColor=white)
 
 
 

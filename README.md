@@ -9,7 +9,7 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
+**Infra**
 
   ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -19,19 +19,13 @@
  
 
 **Distros Linux**
+
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Ubuntu)
-
-  ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Kali_Linux)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Alpine_Linux)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Arch_Linux)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Debian)
+  
 **Utilidades**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)

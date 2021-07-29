@@ -123,7 +123,7 @@
   ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   
   
-<h3> Estudando ... </h3>
+<h3> Estudando Backend... </h3>
 
   ![Kubernetes](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Docker](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

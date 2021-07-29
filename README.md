@@ -87,7 +87,11 @@
   ![Swarm](https://img.shields.io/badge/Swarm-2CA5E0?style=for-the-badge&logo=Swarm&logoColor=white)
   
   <h3> Databases </h3>
-  https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white
+  ![rabbitmq](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+  ![MariaDb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  
+  
     
 <h3> Estudando ... </h3>
 

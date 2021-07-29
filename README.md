@@ -27,18 +27,18 @@
   ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=Debian)
   ![RedHat](https://img.shields.io/badge/-RedHat-333333?style=flat&logo=RedHat)
   
-**Utilidades**
+**IAC**
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform)
+  ![Ansible](https://img.shields.io/badge/-terraform-333333?style=flat&logo=Ansible)
 
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+  
 
 **Ferramentas de Desenvolvimento**
 

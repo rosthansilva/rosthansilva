@@ -12,7 +12,11 @@
  </p>
 
 <p align="left">
-  ⏳ Estou focado em melhorar cada vez mais meu <b>Softskill</b> em Devops, Cloud e Desenvolvimento ;
+  ⏳ Estou focado em melhorar cada vez mais meus <b>Softskills</b> ;
+</p>
+
+<p align="left">
+  ⏳ Estou Cursando **Devops** na **Anhanguera** no **Rio de Janeiro**</b> ;
 </p>
 
 <p align="left">

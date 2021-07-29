@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  ⏳ Estou Cursando **Devops** na **Anhanguera** no **Rio de Janeiro**</b> ;
+  ⏳ Estou Cursando <b>Devops</b> na <b>Anhanguera</b> no <b>Rio de Janeiro</b> ;
 </p>
 
 <p align="left">

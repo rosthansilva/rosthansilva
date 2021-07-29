@@ -128,7 +128,8 @@
   
  
  
-  <h3> Frontend </H3>
+  <h3> Frontend </h3>
+  
   ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -143,7 +144,7 @@
   
 <br/>
 
-<h3> Onde Aprendo </H3>
+<h3> Onde Aprendo </h3>
 
 ![pluralsight](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white)
 ![ACG](https://img.shields.io/badge/A_cloud_Guru-F15B1b?style=for-the-badge&logo=acg&logoColor=white)

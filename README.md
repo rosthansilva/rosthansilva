@@ -7,9 +7,9 @@
   Sou um lazy Sysadmin Linux 🐧 com uma Longa experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento. Desde 2018 busco me aproximar cada vez mais de ambientes de desenvolvimento e tecnologias novas. 
 </p>
 
-- 👨‍🚀 Atualmente sou Devops na [MJV Inovação Tecnológica](https://www.mjvinnovation.com/pt-br/);
-- 🦾 Estou focado em melhorar cada vez mais meus **Softskills** em automação;
-- 📖 Estou Cursando <b>Devops</b> na <b>Anhanguera</b> e Estudando Dev </b>
+- 👨‍🚀 Atualmente sou Devops na [MJV Inovação Tecnológica](https://www.mjvinnovation.com/pt-br/) ;
+- 🦾 Estou focado em melhorar cada vez mais meus **Softskills** em automação ;
+- 📖 Estou Cursando <b>Devops</b> na <b>Anhanguera</b> ;
 - 💌 Quem Quiser entrar em contato comigo : ⤵️
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosthan.pereira/)

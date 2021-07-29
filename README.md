@@ -3,9 +3,9 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 &nbsp; Estudando **DevOps** na <a href="link da sua faculdade">Anhanguera</a>.
+- 💼 &nbsp; Trabalhando como **Devops e Infraestrutura** na <a href="LINK DA EMPRESA">MJV Inovação Tecnológica</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Azure e Desenvolvimento**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 

@@ -21,7 +21,7 @@
 **Distros Linux**
 
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
-  ![Kali Linux](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=KaliLinux)
+  ![Kali Linux](https://img.shields.io/badge/-Kali-linux-333333?style=flat&logo=KaliLinux)
   ![Alpine](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=AlpineLinux)
   ![Arch](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=ArchLinux)
   ![Debian](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Debian)

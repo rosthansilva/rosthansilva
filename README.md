@@ -29,15 +29,13 @@
 -----
 <h1> Minhas Skills ☁</h1>
 
-<h3> Cloud Vendors </h3>
+<h3> Clouds </h3>
 
   ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![OCI](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- 
-
+  
 
 <h3> Distribuições </h3>
 
@@ -53,7 +51,7 @@
   ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
   ![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=Terraform&logoColor=white)
 
-<h3> CI </h3>
+<h3> Ferramentas de CI </h3>
 
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
   ![Azure Devops](https://img.shields.io/badge/Azure_Devops-0089D6?style=for-the-badge&logo=AzureDevops&logoColor=white)
@@ -65,10 +63,11 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
   
-  <h3> CD </h3>
+  <h3> deploys </h3>
 
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-0089D6?style=for-the-badge&logo=Kubernetes&logoColor=white)
   ![AWS fargate](https://img.shields.io/badge/Amazon_Fargate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)

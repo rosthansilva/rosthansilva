@@ -9,8 +9,8 @@
 
 - 👨‍🚀 Atualmente sou Devops na [MJV Inovação Tecnológica](https://www.mjvinnovation.com/pt-br/) ;
 - 🦾 Estou focado em melhorar cada vez mais meus **Softskills** em automação ;
-- 📖 Estou Cursando <b>Devops</b> na <b>Anhanguera</b> ;
-- 💌 Quem Quiser entrar em contato comigo : ⤵️
+- 📖 Estou cursando <b>Devops</b> na <b>Anhanguera</b> ;
+- 💌 Quem quiser entrar em contato comigo : ⤵️
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosthan.pereira/)
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/rosthanpereira) 

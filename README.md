@@ -4,7 +4,7 @@
 
 ### Olá, eu sou [Rosthan!](https://rosthanliunux.me) 🌀 
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=RosthanSilva&color=006bed)
 
 <p align="left"> 
   Sou um lazy Sysadmin Linux 🐧 com uma Longa experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento. Desde 2018 busco me aproximar cada vez mais de ambientes de desenvolvimento e tecnologias novas. 

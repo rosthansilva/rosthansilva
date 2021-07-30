@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=RosthanSilva&color=006bed)
 
 <p align="left"> 
-  Sou um lazy Sysadmin Linux 🐧 com uma Longa experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento. Desde 2018 busco me aproximar cada vez mais de ambientes de desenvolvimento e tecnologias novas. 
+  Sou um lazy Sysadmin Linux 🐧 com uma longa experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento. Desde 2018 busco me aproximar cada vez mais de ambientes de desenvolvimento e tecnologias novas. 
 </p>
 
 - 👨‍🚀 Atualmente sou Devops na [MJV Inovação Tecnológica](https://www.mjvinnovation.com/pt-br/) ;

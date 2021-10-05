@@ -10,8 +10,8 @@
   Sou um lazy Sysadmin Linux 🐧 com uma longa experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento. Desde 2018 busco me aproximar cada vez mais de ambientes de desenvolvimento e tecnologias novas. 
 </p>
 
-- 👨‍🚀 Atualmente sou Devops na [MJV Inovação Tecnológica](https://www.mjvinnovation.com/pt-br/) ;
-- 🦾 Estou focado em melhorar cada vez mais meus **Soft Skills**;
+- 👨‍🚀 Atualmente sou Devops na [Sinqia](https://www.sinqia.com.br/) ;
+- 🦾 Estou focado em melhorar cada vez mais meus **Soft e Hard Skills**;
 - 📖 Estou cursando <b>Devops</b> na <b>Anhanguera</b> ;
 - 💌 Quem quiser entrar em contato comigo : ⤵️
 

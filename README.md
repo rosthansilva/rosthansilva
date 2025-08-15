@@ -1,5 +1,3 @@
----
-
 <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 # Olá, eu sou [Rosthan!](https://rosthansilva.tk) 🌀
@@ -22,7 +20,6 @@ Busco sempre unir **estabilidade, segurança e velocidade**, aplicando práticas
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat\&labelColor=c13584\&logo=instagram\&logoColor=white)](https://www.instagram.com/rosthanlinux)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat\&logo=Gmail\&logoColor=white)](mailto:rosthanlinux@gmail.com)
 
----
 
 ## 🚀 Minhas Skills em Ação
 
@@ -77,8 +74,6 @@ Busco sempre unir **estabilidade, segurança e velocidade**, aplicando práticas
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
-
----
 
 📚 **Aprendizado Contínuo**
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge\&logo=Pluralsight\&logoColor=white)

@@ -12,7 +12,8 @@
 
 - 👨‍🚀 Atualmente sou **Engenheiro Devops** na [Critical Tech Works](https://www.criticaltechworks.com/) ;
 - 🦾 Estou focado em melhorar cada vez mais meus **Soft e Hard Skills**;
-- 📖 Estou cursando <b>Devops</b> na <b>Anhanguera</b> ;
+- 📖 Formado em <b>Devops</b> na <b>Anhanguera</b> ;
+- 👨🏽‍🏫 Professor de DevOps na [Fiap](https://www.fiap.com.br/shift/);
 - 💌 Quem quiser entrar em contato comigo : ⤵️
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosthan-pereira/)

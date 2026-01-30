@@ -1,18 +1,22 @@
 <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Rosthan Dev">
 
-### Hi there, I'm [Rosthan Pereira!](https://www.linkedin.com/in/rosthan-pereira/) 🌀
+### Hi there, I'm [Rosthan Pereira!](https://rosthansilva.com/en/) 🌀
 
 > **Build Systems & Platform Engineer | Technical Educator**
-> "Obsessed with Developer Velocity and optimizing large-scale build ecosystems."
+> "Obsessed with Developer Velocity, Hermetic Builds, and optimizing large-scale ecosystems."
+
+[![Technical Blog](https://img.shields.io/badge/Read_my-Technical_Blog-000000?style=flat-square&logo=ghost&logoColor=white)](https://rosthansilva.com/en/)
 
 ---
 
-### 👨‍💻 About Me
-Currently, I am a **CI/Build Engineer** at **Critical TechWorks (BMW Group)** in Porto, Portugal. I specialize in operating and optimizing large-scale distributed **Bazel** environments. My mission is to bridge the gap between complex infrastructure and developer productivity through automation, remote execution, and hermetic build strategies.
+### 👨‍💻 Engineering Profile
+Currently, I serve as a **CI/Build Engineer** at **Critical TechWorks (BMW Group)** in Porto, Portugal. I specialize in operating and optimizing distributed **Bazel** environments and high-performance CI pipelines.
 
-- 🦾 **Current Focus:** Bazel performance, Starlark extensions, and Platform Engineering.
-- 👨🏽‍🏫 **Education:** DevOps & SRE Professor at **FIAP** (one of Brazil's leading tech hubs).
-- 🐧 **Background:** 9+ years of experience in Linux Systems and Distributed Architectures.
+My mission is to bridge the gap between complex infrastructure and developer productivity through automation, remote execution strategies, and knowledge sharing.
+
+- 🦾 **Core Focus:** Bazel Performance, Starlark, Remote Execution, and Platform Engineering.
+- ✍️ **Writing:** I document insights on DevOps and Build Systems at [**rosthansilva.com**](https://rosthansilva.com/en/).
+- 👨🏽‍🏫 **Community:** DevOps & SRE Professor at **FIAP**, mentoring the next generation of engineers.
 
 ---
 
@@ -49,15 +53,15 @@ Currently, I am a **CI/Build Engineer** at **Critical TechWorks (BMW Group)** in
 
 ---
 
-### 📊 Engineering Stats
+### 📊 GitHub Stats
 <p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rosthansilva&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosthansilva&layout=compact&theme=transparent&hide=html,css,javascript" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosthansilva&layout=compact&theme=transparent&hide=html,css,javascript,jupyter%20notebook" />
 </p>
 
 ---
 
 ### 📫 Connect with me
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosthan-pereira/)
+[![Technical Blog](https://img.shields.io/badge/-Technical_Blog-black?style=flat&logo=ghost&logoColor=white)](https://rosthansilva.com/en/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rosthanlinux@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Website-black?style=flat&logo=web)](https://rosthansilva.tk)

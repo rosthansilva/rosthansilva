@@ -27,6 +27,7 @@ My mission is to bridge the gap between complex infrastructure and developer pro
 | [**Corporate Bazel Workspace**](https://github.com/rosthansilva/corporate-bazel-workspace) | Enterprise-grade Bazel architecture with JFrog Artifactory integration. Focuses on **supply chain security** and **hermetic builds**. | **Bazel, Starlark, JFrog** |
 | [**Dagger Workflows**](https://github.com/rosthansilva/dagger-workflows) | Portable CI/CD pipelines designed to eliminate "it works on my machine" by ensuring parity between local and remote builds. | **Dagger, Go, CI/CD** |
 | [**Custom Zuul Runner**](https://github.com/rosthansilva/github-runner) | Bridging Zuul CI with GitHub Actions for YAML-driven, containerized execution, bypassing traditional Ansible overhead. | **Python, Docker, Zuul** |
+| [**Azure Multi-Tier Challenge**](https://github.com/rosthansilva/azure-challange) | Architected a reference 3-tier infrastructure challenge used to upskill engineering teams at SoftwareOne. Focuses on **IaC modularity** and **High Availability**. | **Terraform, Azure** |
 | [**Cosmos DB Automation**](https://github.com/rosthansilva/cosmos-nosql-bkp) | High-reusability Composite Actions for NoSQL backup orchestration in enterprise cloud environments. | **GitHub Actions, Azure** |
 
 ---

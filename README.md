@@ -2,7 +2,7 @@
 
 ### Hi there, I'm [Rosthan Pereira!](https://rosthansilva.com/en/) 🌀
 
-> **DevOps Architect & Team Lead | Build Systems Engineer**
+> **DevOps Architect & Development Team Lead | Build Systems Engineer**
 > "Leveraging years of Cloud Architecture expertise to solve High-Scale Build challenges."
 
 [![Technical Blog](https://img.shields.io/badge/Read_my-Technical_Blog-000000?style=flat-square&logo=ghost&logoColor=white)](https://rosthansilva.com/en/)

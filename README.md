@@ -14,7 +14,7 @@ I am a seasoned **DevOps Architect** with a strong track record of leading engin
 
 Currently, I serve as a **CI/Build Engineer** at **Critical TechWorks (BMW Group)**. I am applying my background in distributed systems to architect and optimize **Bazel** environments for large-scale automotive software.
 
-My focus is shifting from generalist Cloud DevOps to deep specialization in **Build Engineering** and **Developer Velocity**.
+My focus is shifting from generalist Cloud DevOps to deep specialization in **Build Engineering** and **Developer Velocity** wiyh dagger and bazel 💚.
 
 - 🏛️ **Architecture:** Years of experience designing high-availability infrastructure and orchestrating complex **GitHub Actions** workflows for enterprise clients.
 - 🦾 **Current Mission:** Mastering **Bazel** and **Remote Execution** to reduce feedback loops in massive monorepos.

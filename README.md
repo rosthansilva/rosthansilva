@@ -67,15 +67,6 @@ My focus is shifting from generalist Cloud DevOps to deep specialization in **Bu
 
 ---
 
-### 📊 GitHub Stats
-
-### 📊 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosthanlinux&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rosthan's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosthanlinux&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
-</p>
----
-
 ### 📫 Connect with me
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosthan-pereira/)
 [![Technical Blog](https://img.shields.io/badge/-Technical_Blog-black?style=flat&logo=ghost&logoColor=white)](https://rosthansilva.com/en/)

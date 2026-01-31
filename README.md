@@ -37,6 +37,7 @@ My focus is shifting from generalist Cloud DevOps to deep specialization in **Bu
 ### 🛠️ Core Competencies
 
 **🏗️ Cloud & Microservices Architecture:**
+
 ![AWS](https://img.shields.io/badge/AWS-Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Expert-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -44,18 +45,21 @@ My focus is shifting from generalist Cloud DevOps to deep specialization in **Bu
 ![Microservices](https://img.shields.io/badge/Architecture-Microservices-black?style=flat-square&logo=micro-services&logoColor=white)
 
 **🚀 CI/CD & Build Innovation:**
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Advanced_Workflows-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-Enterprise-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Bazel](https://img.shields.io/badge/Bazel-Build_Engineering-43A047?style=flat-square&logo=bazel&logoColor=white)
 ![Dagger](https://img.shields.io/badge/Dagger-Portable_CI-000000?style=flat-square&logo=dagger&logoColor=white)
 
 **🛡️ Platform Engineering & Observability:**
+
 ![Backstage](https://img.shields.io/badge/Backstage-IDP-9bf0e1?style=flat-square&logo=backstage&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-Observability-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-DevSecOps-4a5568?style=flat-square&logo=owasp&logoColor=white)
 
 **💻 Development & Frameworks:**
+
 ![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-Tooling-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-Framework-FF2D20?style=flat-square&logo=laravel&logoColor=white)

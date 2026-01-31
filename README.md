@@ -3,20 +3,20 @@
 ### Hi there, I'm [Rosthan Pereira!](https://rosthansilva.com/en/) 🌀
 
 > **Build Systems & Platform Engineer | Technical Educator**
-> "Obsessed with Developer Velocity, Hermetic Builds, and optimizing large-scale ecosystems."
+> "Driven by the challenge of Hermetic Builds and the continuous pursuit of Developer Velocity."
 
 [![Technical Blog](https://img.shields.io/badge/Read_my-Technical_Blog-000000?style=flat-square&logo=ghost&logoColor=white)](https://rosthansilva.com/en/)
 
 ---
 
-### 👨‍💻 Engineering Profile
-Currently, I serve as a **CI/Build Engineer** at **Critical TechWorks (BMW Group)** in Porto, Portugal. I specialize in operating and optimizing distributed **Bazel** environments and high-performance CI pipelines.
+### 👨‍💻 Engineering Journey
+Currently, I work as a **CI/Build Engineer** at **Critical TechWorks (BMW Group)** in Porto, Portugal. My daily routine involves navigating the complexities of distributed **Bazel** environments and high-performance CI pipelines.
 
-My mission is to bridge the gap between complex infrastructure and developer productivity through automation, remote execution strategies, and knowledge sharing.
+I see myself as a fast-paced learner deeply invested in the Build Systems ecosystem. My mission is to master the art of bridging complex infrastructure with developer productivity, constantly iterating on automation and remote execution strategies.
 
-- 🦾 **Core Focus:** Bazel Performance, Starlark, Remote Execution, and Platform Engineering.
-- ✍️ **Writing:** I document insights on DevOps and Build Systems at [**rosthansilva.com**](https://rosthansilva.com/en/).
-- 👨🏽‍🏫 **Community:** DevOps & SRE Professor at **FIAP**, mentoring the next generation of engineers.
+- 🦾 **Current Deep Dive:** Expanding my expertise in **Bazel Performance**, **Starlark** rules, and **Remote Execution** nuances.
+- ✍️ **Writing:** I document my learning journey, "aha!" moments, and DevOps insights at [**rosthansilva.com**](https://rosthansilva.com/en/).
+- 👨🏽‍🏫 **Community:** Sharing what I learn as a DevOps & SRE Professor at **FIAP**, mentoring the next generation of engineers.
 
 ---
 
@@ -24,7 +24,7 @@ My mission is to bridge the gap between complex infrastructure and developer pro
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**Corporate Bazel Workspace**](https://github.com/rosthansilva/corporate-bazel-workspace) | Enterprise-grade Bazel architecture with JFrog Artifactory integration. Focuses on **supply chain security** and **hermetic builds**. | **Bazel, Starlark, JFrog** |
+| [**Corporate Bazel Workspace**](https://github.com/rosthansilva/corporate-bazel-workspace) | An exploration of enterprise-grade Bazel architecture with JFrog Artifactory. Focused on understanding **supply chain security** patterns and **hermetic builds**. | **Bazel, Starlark, JFrog** |
 | [**Dagger Workflows**](https://github.com/rosthansilva/dagger-workflows) | Portable CI/CD pipelines designed to eliminate "it works on my machine" by ensuring parity between local and remote builds. | **Dagger, Go, CI/CD** |
 | [**Custom Zuul Runner**](https://github.com/rosthansilva/github-runner) | Bridging Zuul CI with GitHub Actions for YAML-driven, containerized execution, bypassing traditional Ansible overhead. | **Python, Docker, Zuul** |
 | [**Azure Multi-Tier Challenge**](https://github.com/rosthansilva/azure-challange) | Architected a reference 3-tier infrastructure challenge used to upskill engineering teams at SoftwareOne. Focuses on **IaC modularity** and **High Availability**. | **Terraform, Azure** |
@@ -32,7 +32,7 @@ My mission is to bridge the gap between complex infrastructure and developer pro
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🛠️ Tech Stack & Interests
 
 **Build & Infrastructure:**
 ![Bazel](https://img.shields.io/badge/Bazel-43A047?style=flat-square&logo=bazel&logoColor=white)
@@ -56,8 +56,8 @@ My mission is to bridge the gap between complex infrastructure and developer pro
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rosthansilva&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosthansilva&layout=compact&theme=transparent&hide=html,css,javascript,jupyter%20notebook" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rosthansilva&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosthansilva&layout=compact&theme=transparent&hide=html,css,javascript,jupyter%20notebook" />
 </p>
 
 ---

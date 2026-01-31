@@ -38,11 +38,11 @@ My focus is shifting from generalist Cloud DevOps to deep specialization in **Bu
 
 **🏗️ Cloud & Microservices Architecture:**
 
-![AWS](https://img.shields.io/badge/AWS-Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Expert-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS Certified](https://img.shields.io/badge/AWS-Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure Certified DevOps](https://img.shields.io/badge/Azure-Expert-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Microservices](https://img.shields.io/badge/Architecture-Microservices-black?style=flat-square&logo=micro-services&logoColor=white)
+![Terraform Certified](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Microservices Developer](https://img.shields.io/badge/Architecture-Microservices-black?style=flat-square&logo=micro-services&logoColor=white)
 
 **🚀 CI/CD & Build Innovation:**
 
